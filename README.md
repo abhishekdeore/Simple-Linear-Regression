@@ -1,4 +1,4 @@
-# Simple-Linear-Regression
+# Simple-Linear-Regression-Implementation-Example
 
 I started learning about Linear Regression and the first type that I am currently studying is the Simple Linear Regression. I will also upload my notes which will be in HINGLISH, which will help in getting deeper understanding about the algorithm.
 
